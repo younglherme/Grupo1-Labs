@@ -29,7 +29,7 @@ function App() {
       id: 3,
       nome: "Stella Bezerra",
       foto: stella,
-      descricao: "Desenvolvedora Fullstack",
+      descricao: "Scrum  Master | Gestão de Projeto | Agilista | Transformação Digital",
       linkedin: "https://www.linkedin.com/in/stellabezerra",
       github: "https://github.com/Stella-Bezerra",
     },
