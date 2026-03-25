@@ -5,6 +5,7 @@ import Linkedin from "./assets/linkedin.png";
 import github from "./assets/github.png";
 import guilherme from "./assets/Guilherme.png";
 import stella from "./assets/stella.png";
+import isabela from "./assets/isabela.jpg";
 
 function App() {
   const equipe = [

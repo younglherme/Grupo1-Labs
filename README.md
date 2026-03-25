@@ -14,10 +14,9 @@ Projeto de apresentação da equipe desenvolvido durante o **Labs G1**. Focado e
 
 ## 👥 Integrantes
 - **Tulani Souza**: Desenvolvedora FullStack, Ethical Hacker & Gestora de Tecnologia da Informação.
-- [Integrante do grupo]: [Cargo/Função].
-- [Integrante do grupo]: [Cargo/Função].
-- [Integrante do grupo]: [Cargo/Função].
-- [Integrante do grupo]: [Cargo/Função].
+- **Guilherme Silva**: Desenvolvedor Backend (Full-Stack).
+- **Stella Bezerra**: Scrum  Master | Gestão de Projeto | Agilista | Transformação Digital.
+- **Isabela Viana**: Desenvolvedora Full Stack Web | Automação.
 
 ---
 *Apresentação agendada para: Quinta-feira, 26/03/2026.*compiler/installation).
