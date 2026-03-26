@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Grupo 1 - Labs Alpha
 
 Repositório oficial da equipe **Labs Alpha**, desenvolvido para o desafio de performance e inovação. Este projeto entrega uma interface de alta fidelidade com foco em experiência do usuário (UX) e segurança.
