@@ -5,6 +5,7 @@ import Linkedin from "./assets/linkedin.png";
 import github from "./assets/github.png";
 import guilherme from "./assets/Guilherme.png";
 import stella from "./assets/stella.png";
+import isabela from "./assets/isabela.jpg";
 
 function App() {
   const equipe = [
@@ -29,18 +30,18 @@ function App() {
       id: 3,
       nome: "Stella Bezerra",
       foto: stella,
-      descricao: "Desenvolvedora Fullstack",
+      descricao: "Scrum  Master | Gestão de Projeto | Agilista | Transformação Digital",
       linkedin: "https://www.linkedin.com/in/stellabezerra",
       github: "https://github.com/Stella-Bezerra",
     },
-    // {
-    //   id: 4,
-    //   nome: "x",
-    //   foto: x,
-    //   descricao: "X",
-    //   linkedin: "ENDEREÇO",
-    //   github: "ENDEREÇO"
-    // }
+     {
+      id: 4,
+      nome: "Isabela Viana",
+      foto: isabela,
+      descricao: "Desenvolvedora Full Stack Web | Automação",
+      linkedin: "https://www.linkedin.com/in/isabela-viana-11b27638a/",
+      github: "https://github.com/yisasz/"
+     },
   ];
 
   return (
@@ -105,6 +106,7 @@ function App() {
                   <img
                     src={github}
                     alt="GitHub"
+                    onContextMenu={(e) => e.preventDefault()}
                     className="h-6 w-6 object-contain opacity-70 group-hover:opacity-100"
                   />
                 </a>
