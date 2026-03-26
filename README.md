@@ -1,4 +1,4 @@
-# 🚀 Grupo 1 - Labs
+# 🚀 Grupo 1 - Labs Alpha
 
 Projeto de apresentação da equipe desenvolvido durante o **Labs G1**. Focado em uma interface moderna, segura e responsiva.
 
