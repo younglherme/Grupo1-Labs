@@ -1,3 +1,32 @@
+
+# Grupo 1 - Labs Alpha
+
+Repositório oficial da equipe **Labs Alpha**, desenvolvido para o desafio de performance e inovação. Este projeto entrega uma interface de alta fidelidade com foco em experiência do usuário (UX) e segurança.
+
+## Stack Tecnológica
+* **Core:** React.js + Vite (Build ultra-rápida).
+* **Styling:** Tailwind CSS v4 (Engine de última geração).
+* **Deployment:** Preparado para Vercel
+* **DevOps:** Versionamento semântico via Git/GitHub.
+
+## High-Tech Features
+* **Glassmorphism Glass:** Interface moderna com desfoque de fundo (backdrop-blur) e transparência.
+* **Responsividade Adaptativa:** Experiência fluida de telas 4k até dispositivos mobile antigos.
+* **Cybersecurity Mindset:** Código limpo, auditoria de dependências (`npm audit`) com 0 vulnerabilidades e gestão de metadados.
+
+## Squad
+| Integrante | Role Principal | Especialidade |
+| :--- | :--- | :--- |
+| **Tulani Souza** | FullStack & Security | Ethical Hacking & IT Management |
+| **Guilherme Silva** | Backend | Full-Stack Development |
+| **Stella Bezerra** | Scrum Master | Agile & Digital Transformation |
+| **Isabela Viana** | FullStack | Web Automation |
+
+## 🚀 Como Rodar o Projeto
+1. Clone o repositório: `git clone https://github.com/younglherme/Grupo1-Labs.git`
+2. Instale as dependências: `npm install`
+3. Inicie o servidor: `npm run dev`
+=======
 # Grupo 1 - Labs Alpha
 
 Repositório oficial da equipe **Labs Alpha**, desenvolvido para o desafio de performance e inovação. Este projeto entrega uma interface de alta fidelidade com foco em experiência do usuário (UX) e segurança.
@@ -50,13 +79,6 @@ Aqui estão os slides principais da nossa Engenharia de Sistema:
 <img width="1000" height="900" alt="The_Engineering_Operating_System (9)" src="https://github.com/user-attachments/assets/c09cf421-343c-4fac-a59d-2d1523226c25" />
 
 <img width="1000" height="900" alt="The_Engineering_Operating_System (10)" src="https://github.com/user-attachments/assets/552a95ab-0b16-447a-989c-905b482c9d3d" />
-
-
-
-
-
-
-
 
 
 
